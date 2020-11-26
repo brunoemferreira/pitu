@@ -1,7 +1,7 @@
 {
   "name": "backend",
   "version": "1.0.0",
-  "description": "",
+  "description": "A simple micro-SaaS for URL shortening",
   "main": "index.js",
   "scripts": {
     "start": "tsc && node ./dist/server.js",
@@ -12,6 +12,7 @@
   "license": "ISC",
   "dependencies": {
     "@types/express": "^4.17.9",
+    "@types/validator": "^13.1.0",
     "cors": "^2.8.5",
     "express": "^4.17.1",
     "mysql2": "^2.2.5",
