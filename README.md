@@ -18,7 +18,7 @@
 ## 💻 Sobre o projeto
 
 O Pitu 🦐 é um projeto ( micro-SaaS - Software as a Service ) que faz a função de encurtador de URL´s, similar ao
-[bitly](https://bitly.com/), que pega urls grandes faz o encurtamento e contabiliza as mesmas.
+[bitly](https://bitly.com/), que pega urls grandes faz o encurtamento e contabiliza as mesmas, armazenando em um banco MySql.
 
 ### Diagrama do Projeto
 
