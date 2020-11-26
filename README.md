@@ -23,7 +23,7 @@ O Pitu 🦐 é um projeto ( micro-SaaS - Software as a Service ) que faz a funç
 ### Diagrama do Projeto
 
 <h2 align="center">
-    <img width="400px" alt="Diagrama" title="#Diagrama" src="./assets/Diagrama.png" />
+    <img width="400px" alt="Diagrama" title="#Diagrama" src="./assets/diagrama.png" />
 </h2>
 
 ### Telas do Projeto
