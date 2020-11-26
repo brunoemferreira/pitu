@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="pitulogo" title="#pitulogo" src="./assets/pitulogo.png" />
+    <img alt="pitulogo" title="#pitulogo" src="./assets/logo.png" />
 </h1>
 <h2 align="center">🚧 Em Desenvolvimento 🚧</h2>
 <h1 align="center">Semana Web Full Stack</h1>
