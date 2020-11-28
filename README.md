@@ -55,7 +55,7 @@ Podemos considerar este projeto como sendo divido em duas partes ( MonoRepo ):
 |- /frontend/ 
 ```
 
-💡 O Front End precisa que o Back End esteja sendo executado para funcionar.
+> 💡 O Front End precisa que o Back End esteja sendo executado para funcionar.
 
 ### Pré-requisitos
 
