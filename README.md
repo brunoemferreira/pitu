@@ -86,5 +86,13 @@ $ npm start
 # Clone este repositório
 $ git clone https://github.com/brunoemferreira/pitu.git
 
+# Acesse a pasta frontend
+$ cd frontend
 
+# execute o comando 
+$ yarn start  
+ou
+$ npm start
+
+# O servidor inciará na porta:3001 ou a de sua escolha no momento
 ```
