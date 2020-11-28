@@ -3,13 +3,20 @@ import { BrowserRouter, Switch, Route } from "react-router-dom";
 
 // Rotas
 //
+import HomePage from "../pages/HomePage";
+import RedirectPage from "../pages/RedirectPage";
+import StatsPage from "../pages/StatsPage";
 
 function Routes() {
   return (
-    <Router>
+    <BrowserRouter>
       <Switch>
-        <Route />
+        <Route exact path="/" component={HomePage} />
+        <Route exact path="/:code" component={RedirectPage} />
+        <Route exact path="/:code/stats" component={StatsPage} />
       </Switch>
-    </Router>
+    </BrowserRouter>
   );
 }
+
+export default Routes;
