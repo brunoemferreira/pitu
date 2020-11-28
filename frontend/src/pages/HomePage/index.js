@@ -62,7 +62,11 @@ class HomePage extends React.Component {
                 onChange={(e) => this.setState({ url: e.target.value })}
               />
               <InputGroup.Append>
-                <Button variant="primary" type="submit">
+                <Button
+                  variant=""
+                  bsPrefix="background-color:#7219A1"
+                  type="submit"
+                >
                   Encurtar
                 </Button>
               </InputGroup.Append>
