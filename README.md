@@ -60,6 +60,14 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode]()
 # Clone este repositório
 $ git clone https://github.com/brunoemferreira/pitu.git
 
+# Acesse a pasta backend
+$ cd backend
+
+# execute o comando 
+$ yarn start  
+ou
+$ npm start
+
 # O servidor inciará na porta:3000
 ```
 
