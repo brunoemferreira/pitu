@@ -43,8 +43,17 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 Podemos considerar este projeto como sendo divido em duas partes ( MonoRepo ):
 
-1. Back End (pasta backend)
-2. Front End (pasta frontend)
+1. Back End
+```bash
+# Acesse a pasta backend
+|- /backend/ 
+```
+
+2. Front End
+```bash
+# Acesse a pasta frontend
+|- /frontend/ 
+```
 
 💡 O Front End precisa que o Back End esteja sendo executado para funcionar.
 
