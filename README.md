@@ -3,8 +3,6 @@
 </h1>
 
 <h1 align="center">PITU - A simple micro-SaaS for URL shortening</h1>
-
-<h2 align="center">🚧 Em Desenvolvimento 🚧</h2>
 <h1 align="center">Semana Web Full Stack</h1>
 
 <p align="center">
@@ -31,6 +29,11 @@ O Pitu 🦐 é um projeto ( micro-SaaS - Software as a Service ) que faz a funç
 
 ### Telas do Projeto
 
+<h2 align="center">
+    <img width="500px" alt="tela1" title="#tela1" src="./assets/tela1.png" />
+    <img width="500px" alt="tela2" title="#tela2" src="./assets/tela2.png" />
+    <img width="500px" alt="tela3" title="#tela3" src="./assets/tela3.png" />
+</h2>
 ## 🛠 Tecnologias
 
 As seguintes ferramentas foram usadas na construção do projeto:
@@ -44,15 +47,17 @@ As seguintes ferramentas foram usadas na construção do projeto:
 Podemos considerar este projeto como sendo divido em duas partes ( MonoRepo ):
 
 1. Back End
+
 ```bash
 # Acesse a pasta backend
-|- /backend/ 
+|- /backend/
 ```
 
 2. Front End
+
 ```bash
 # Acesse a pasta frontend
-|- /frontend/ 
+|- /frontend/
 ```
 
 > 💡 O Front End precisa que o Back End esteja sendo executado para funcionar.
@@ -72,8 +77,8 @@ $ git clone https://github.com/brunoemferreira/pitu.git
 # Acesse a pasta backend
 $ cd backend
 
-# execute o comando 
-$ yarn start  
+# execute o comando
+$ yarn start
 ou
 $ npm start
 
@@ -89,8 +94,8 @@ $ git clone https://github.com/brunoemferreira/pitu.git
 # Acesse a pasta frontend
 $ cd frontend
 
-# execute o comando 
-$ yarn start  
+# execute o comando
+$ yarn start
 ou
 $ npm start
 
