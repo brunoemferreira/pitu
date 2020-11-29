@@ -1,11 +1,14 @@
 import styled from "styled-components";
 
 export const HeaderContainer = styled.div`
-  padding: 3rem;
+  background-color: #f9f9f9;
+  display: flex;
+  align-items: center;
+  padding-left: 20px;
   text-align: center;
+  height: 100px;
 `;
 
 export const Logo = styled.img`
-  max-width: 100%;
-  height: 100px;
+  width: 30%;
 `;

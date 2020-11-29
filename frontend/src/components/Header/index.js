@@ -1,15 +1,18 @@
 import { React } from "react";
-import { Logo, HeaderContainer } from "./styles";
-import Logotipo from "../../assets/logo.png";
+import { Logo } from "./styles";
+import LogoPitu from "../../assets/logobig.png";
+import { Col, Container } from "react-bootstrap";
 
 function Header(props) {
   return (
     <>
-      <HeaderContainer>
-        <Logo src={Logotipo} alt="Pitu - Encurtador de URL" />
+      <Container align="center" className="mt-5 mb-5">
+        <Col md={5}>
+          <Logo src={LogoPitu} alt="Pitu - Encurtador de URL" />
+        </Col>
         <h1>Pitu</h1>
         <p>{props.children}</p>
-      </HeaderContainer>
+      </Container>
     </>
   );
 }
